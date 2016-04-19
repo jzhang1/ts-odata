@@ -1,0 +1,31 @@
+{
+  "name": "ts-odata",
+  "version": "1.0.0",
+  "description": "Typescript implementation of OData Server for Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzhang1/ts-odata.git"
+  },
+  "keywords": [
+    "OData",
+    "Typescript",
+    "Node"
+  ],
+  "author": "Jeffery Zhang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jzhang1/ts-odata/issues"
+  },
+  "homepage": "https://github.com/jzhang1/ts-odata#readme",
+  "dependencies": {
+    "mongodb": "^2.1.16",
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "typescript": "^1.8.10"
+  }
+}
